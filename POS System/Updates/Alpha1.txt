@@ -1,0 +1,23 @@
+Hypnos POS | Alpha 0.0.1 Updatelog (07/11/2018):
+
+- Created SecureAntiLeak login screen.
+- Started the automatic/continuous update page.
+
+Hypnos POS | Alpha 0.0.1 Updatelog (14/11/2018):
+
+- Improved the SecureAntiLeak login page by adding RSA-256 encryption.
+- Made the beta ComboBox item selection screen.
+- Temporarily added a button to got to the POS part immediately for development purposes.
+
+Hypnos POS | Alpha 0.0.1 Updatelog (21/11/2018):
+
+- I was unwell so I didn't get to do an update.
+
+Hypnos POS | Alpha 0.0.1 Updatelog (28/11/2018):
+
+- The SecureAntiLeak login page email and login now works. (Just use Email: tester@hypnos.io and Password: tester123 to login.)
+- The ComboBox item selection screen works now.
+- Removed the button to got to the POS part immediately.
+- Added the support screen.
+
+(SecureAntiLeak is a trademark of Fyre Interactive LTD 2018)

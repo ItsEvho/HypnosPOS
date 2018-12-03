@@ -1,0 +1,14 @@
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\bin\Debug\POS System.exe.config
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\bin\Debug\POS System.exe
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\bin\Debug\POS System.pdb
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\bin\Debug\POS System.xml
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\obj\Debug\POS System.vbprojResolveAssemblyReference.cache
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\obj\Debug\POS_System.Form1.resources
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\obj\Debug\POS_System.Resources.resources
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\obj\Debug\POS System.vbproj.GenerateResource.Cache
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\obj\Debug\POS System.vbproj.CoreCompileInputs.cache
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\obj\Debug\POS System.exe
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\obj\Debug\POS System.xml
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\obj\Debug\POS System.pdb
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\obj\Debug\POS_System.Form2.resources
+\\internal.swatrust.co.uk\saastuhome$\17WClifford\Documents\4. Coding\Visual Basic\POS System\POS System\obj\Debug\POS_System.Form3.resources
