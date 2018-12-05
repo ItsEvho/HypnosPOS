@@ -2,6 +2,8 @@
 
     Dim fileReader As String
 
+    'Made by Evho (Will Clifford) - 7th November (Updated on 14th November, 28th November and 5th December)'
+
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
         fileReader = My.Computer.FileSystem.ReadAllText("H:\Documents\4. Coding\Visual Basic\POS System\Updates\Alpha1.txt")

@@ -2,6 +2,9 @@
 
     Dim eMail As String
     Dim passwordStuff As String
+    Private txtpass As Object
+
+    'Made by Evho (Will Clifford) - 7th November (Updated on 14th November, 28th November and 5th December)'
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
@@ -65,10 +68,25 @@
 
     End Sub
 
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
 
-        Me.Hide()
-        Form3.Show()
+        If TextBox2.UseSystemPasswordChar = True Then
+
+            TextBox2.UseSystemPasswordChar = False
+            Button3.Text = "Hide Password"
+
+        Else
+
+            TextBox2.UseSystemPasswordChar = True
+            Button3.Text = "Show Password"
+
+        End If
+
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        TextBox2.UseSystemPasswordChar = True
 
     End Sub
 

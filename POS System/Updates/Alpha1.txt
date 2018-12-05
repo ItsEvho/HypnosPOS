@@ -20,4 +20,9 @@ Hypnos POS | Alpha 0.0.1 Updatelog (28/11/2018):
 - Removed the button to got to the POS part immediately.
 - Added the support screen.
 
+Hypnos POS | Alpha 0.0.1 Updatelog (05/12/2018):
+
+- The SecureAntiLeak login page email and login now works. (Just use Email: tester@hypnos.io and Password: tester123 to login.)
+- Your password now get hidden when you type it in.
+
 (SecureAntiLeak is a trademark of Fyre Interactive LTD 2018)
